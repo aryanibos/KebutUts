@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KebutUts</string>
+
+    <string-array name="nama">
+        <item>Ucup</item>
+        <item>Uep</item>
+        <item>Ucok</item>
+        <item>Udin</item>
+        <item>Usro</item>
+    </string-array>
+</resources>
